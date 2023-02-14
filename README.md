@@ -9,17 +9,17 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[npm-version]: https://img.shields.io/npm/v/node-lib-template.svg?style=for-the-badge
+[npm-version]: https://img.shields.io/npm/v/node-lib-template.svg
 [npm-url]: https://www.npmjs.com/package/node-lib-template
-[contributors-shield]: https://img.shields.io/github/contributors/Songkeys/node-lib-template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Songkeys/node-lib-template.svg
 [contributors-url]: https://github.com/Songkeys/node-lib-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Songkeys/node-lib-template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Songkeys/node-lib-template.svg
 [forks-url]: https://github.com/Songkeys/node-lib-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Songkeys/node-lib-template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Songkeys/node-lib-template.svg
 [stars-url]: https://github.com/Songkeys/node-lib-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Songkeys/node-lib-template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Songkeys/node-lib-template.svg
 [issues-url]: https://github.com/Songkeys/node-lib-template/issues
-[license-shield]: https://img.shields.io/github/license/Songkeys/node-lib-template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Songkeys/node-lib-template.svg
 [license-url]: https://github.com/Songkeys/node-lib-template/blob/master/LICENSE.txt
 
 <!-- PROJECT LOGO -->
